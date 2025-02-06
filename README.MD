@@ -1,6 +1,3 @@
-Aqui está um modelo de README bonito, com emojis, para o seu projeto Java:
-
----
 
 # Projeto Java - Gestão de Funcionários de uma Indústria 🧑‍💻
 
